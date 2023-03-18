@@ -12,7 +12,7 @@ public class Lab1_CPIT251 {
      */
     public static void main(String[] args) {
         
-        System.out.println("Hello! This java file is made for Lab 1.");
+        System.out.println("Hello! This java file is made for Lab 1. Have a nice day!");
         
     }
     
